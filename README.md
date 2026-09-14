@@ -9,7 +9,7 @@ Sou **Gustavo**, graduando em **Informática Biomédica** na UFPR.
 ## 📊 Estatísticas e Projetos
 
 <div>
-  <a href="https://github.com/AmortzDi">
+  <a href="https://github.com/GustavoEmanuel901">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmortzDi&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmortzDi&layout=compact&langs_count=8&theme=blue-green"/>
   </a>
