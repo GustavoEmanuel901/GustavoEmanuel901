@@ -10,8 +10,8 @@ Sou **Gustavo**, graduando em **Informática Biomédica** na UFPR.
 
 <div>
   <a href="https://github.com/GustavoEmanuel901">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmortzDi&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmortzDi&layout=compact&langs_count=8&theme=blue-green"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GustavoEmanuel901&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GustavoEmanuel901&layout=compact&langs_count=8&theme=blue-green"/>
   </a>
 </div>
 
