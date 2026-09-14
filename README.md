@@ -1,16 +1,44 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil! 👋
 
-<!--
-**GustavoEmanuel901/GustavoEmanuel901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Sou **Gustavo**, graduando em **Informática Biomédica** na UFPR. 
+* 🎓 Estudante de Informática Biomédica (UFPR)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas e Projetos
+
+<div>
+  <a href="https://github.com/AmortzDi">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmortzDi&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmortzDi&layout=compact&langs_count=8&theme=blue-green"/>
+  </a>
+</div>
+
+---
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens e Backend
+<p align="left">
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  &nbsp;
+  <img alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  &nbsp;
+  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  &nbsp;
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  &nbsp;
+<img alt="Jupyter" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  &nbsp;
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  &nbsp;
+  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  &nbsp;
+<img alt="Bash" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
+
+
+---
+
+
+🚀 *Obrigado por visitar meu perfil!*
